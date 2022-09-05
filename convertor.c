@@ -173,7 +173,7 @@ void decimaltohexadecimal(int decimal) {
             printf("%d",hexa[j]);
         }
     }
-
+printf("\n");
 
 }
 
